@@ -1,7 +1,7 @@
 # Summary
 
 * [简介](README.md)
-* [第一章 微信开发基础知识](chapter1/README.md)
+* [第一章 微信基础](chapter1/README.md)
     * [第一节](chapter1/官网.md)
     * [第二节](chapter1/常用链接.md)
 * [第二章](chapter2/README.md)
